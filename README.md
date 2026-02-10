@@ -2,7 +2,7 @@
 # My Project
 
 ## Description
-This is a simple project created to practice web development using HTML and CSS. The project demonstrates basic webpage structure and styling.
+This is a simple project created to practice web development using HTML and CSS. The project demonstrates basic webpage structure and styling. and also i have use php for this.
 
 ## Features
 - Basic webpage layout
